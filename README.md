@@ -19,12 +19,12 @@ This app is a mock blog spot where users can post and edit new entries, or comme
 
 -----------
 ## Tech/Framework
-Built with:
-    * JavaScript
-    * SQL
-    * Express.js
-    * NPM: express, mysql2, sequelize, dotenv, bcrypt, sessions handlebars
-    * Node.js
+
+* JavaScript
+* MySQL
+* Express.js
+* NPM: express, mysql2, sequelize, dotenv, bcrypt, sessions, handlebars
+* Node.js
 
 -----------
 ## Authors and Acknowledgment
